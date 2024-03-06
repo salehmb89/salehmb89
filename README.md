@@ -29,6 +29,8 @@ I've been learning to code for 1 years, after switching my career. I started wit
 </p>
 
 ### Badges
+![qr1709695178554](https://github.com/salehmb89/salehmb89/assets/156353463/b61fdb6d-0683-4b4d-826e-23be9b9278b6)
+
 
 **My GitHub Stats**
 
