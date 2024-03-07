@@ -29,7 +29,7 @@ I've been learning to code for 1 years, after switching my career. I started wit
 </p>
 
 ### Badges
-![qr1709695178554](https://github.com/salehmb89/salehmb89/assets/156353463/b61fdb6d-0683-4b4d-826e-23be9b9278b6)
+![resize_image_647a2d9dae3fae0befca1799f69bcaf5_65e95fb818d27](https://github.com/salehmb89/salehmb89/assets/156353463/519dd60f-024f-4c43-9392-145eab1c2ea8)
 
 
 **My GitHub Stats**
