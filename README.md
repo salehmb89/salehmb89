@@ -1,7 +1,7 @@
 Hi 👋 My name is Saleh Basalim
 ==============================
 
-CIS student at University of North Alabama
+CIS University of North Alabama
 ------------------------------------------
 
 I've been learning to code for 1 years, after switching my career. I started with Python, HTML, and Java Script but have really found a passion for backend development...
